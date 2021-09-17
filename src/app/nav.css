@@ -1,0 +1,22 @@
+.input{
+    /* overflow: hidden; */
+    border: 0;
+    border-bottom: solid;
+    border-bottom-color: white;
+    color: #ffffff;
+}
+
+::placeholder {
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+/* @media (max-width: 305px){
+    .boton{
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+    }
+} */
+
+
