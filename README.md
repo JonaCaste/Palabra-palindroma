@@ -1,5 +1,5 @@
 # Palabra-palindroma
-Rest API construida con el stack MERN.
+API Rest construida con el stack MERN.
 Esta página muestra una lista de palabras cargadas de la base de datos; indicándonos si la palabra es palíndroma o no.
 
 ## Construcción 🚀
