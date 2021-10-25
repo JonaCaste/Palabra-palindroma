@@ -2,6 +2,8 @@
 API Rest construida con el stack MERN.
 Esta página muestra una lista de palabras cargadas de la base de datos; indicándonos si la palabra es palíndroma o no.
 
+* Link - [Palabra-palindroma](https://palabra-palindroma.herokuapp.com/)
+
 ## Construcción 🚀
 Para este sitio se creó una Rest API creada con NodeJS y Express, que se encarga de proveer al sitio construido con ReactJS con la base de datos creada y diseñada en MongoDB.
 
